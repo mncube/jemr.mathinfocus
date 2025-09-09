@@ -1,2 +1,4 @@
 ^jemr\.mathinfocus\.Rproj$
 ^\.Rproj\.user$
+^rawdatafiles$
+^LICENSE\.md$
